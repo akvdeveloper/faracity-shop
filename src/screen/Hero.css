@@ -1,0 +1,97 @@
+.play-button {
+    margin-right: 100px;
+    margin-top: 38px;
+    border-radius: 180px;
+    width: 80px;
+    height: 80px;
+    border: 3px dashed green;
+}
+
+.hero {
+    width: 100%;
+    margin-top: 80px;
+}
+
+.our-product {
+    width: 320px;
+    height: 80px;
+    border: 2px solid green;
+    border-radius: 40px;
+    font-size: 25px;
+}
+
+.btngroup {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.hero-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 90px;
+}
+.content-head {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.btnyour, .yesContent{
+    border: 5px dotted green;
+    border-radius: 50px;
+    width: 220px;
+    height: 100px;
+    font-size: 55px;
+    background-color: white;
+}
+.yesContent button {
+    border-radius: 50px;
+    width: 200px;
+    height: 85px;
+    font-size: 55px;
+    background-color: green;
+    color: white;  
+}
+
+.hero-foot {
+    margin-top: 50px;
+    width:100%;
+    height: 120px;
+  
+
+}
+.hero-bottom {
+    width: 63%;
+    height: 90px;
+    border: 6px dotted green;
+    border-radius: 50px;
+    
+}
+.hero-bottom-1 {
+    width: 98%;
+    height: 80px;
+    background-color: #FFC1A1;
+    border-radius: 40px;
+    justify-self: center;
+    border-radius: 10px solid red;
+}
+
+.trendup {
+    width: 65px;
+    height: 65px;
+    border: 1px solid black;
+    color: white;
+    border-radius: 65px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 70px;
+}
+
+.tc1 {
+    font-size: 18px;
+}
+.tc2 {
+    font-size: 16px;
+    margin-left: 50px;
+}
